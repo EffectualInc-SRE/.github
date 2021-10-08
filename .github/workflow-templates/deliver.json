@@ -1,0 +1,5 @@
+{
+    "name": "Review and Deliver",
+    "description": "Supports the automation of Code Review (QA & Validation Only) and then delivers templates to S3.",
+    "iconName": "review-and-deliver"
+}
