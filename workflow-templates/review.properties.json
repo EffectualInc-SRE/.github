@@ -1,5 +1,5 @@
 {
-    "name": "Review",
+    "name": "Review CloudFormation",
     "description": "Supports QA, Security, & Validation of CloudFormation.",
     "iconName": "review"
 }
