@@ -1,0 +1,5 @@
+{
+    "name": "Deliver CloudFormation",
+    "description": "Delivers templates to S3",
+    "iconName": "deliver"
+}
