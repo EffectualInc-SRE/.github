@@ -5,10 +5,7 @@ name: "Deliver Resources to S3"
 
 on:
   push:
-    branches:
-      - master
-      - main
-
+    branches: [ $default-branch ]
 env:
 
   AWS_DEFAULT_REGION: us-east-1

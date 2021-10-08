@@ -5,9 +5,7 @@ name: Review All Resources
 
 on:
   push:
-    branches-ignore:
-      - master
-      - main
+    branches-ignore: [ $default-branch ]
 
 jobs:
 
