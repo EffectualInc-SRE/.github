@@ -1,0 +1,5 @@
+{
+    "name": "AWS Authentication (Delivery)",
+    "description": "Authenticates to AWS for delivery of SRE Templates to S3",
+    "iconName": "aws-auth-deliver"
+}

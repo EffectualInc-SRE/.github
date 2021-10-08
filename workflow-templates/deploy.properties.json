@@ -1,0 +1,5 @@
+{
+    "name": "Deploy CloudFormation",
+    "description": "Deploy templates to Customer Account",
+    "iconName": "deploy"
+}
